@@ -3,10 +3,6 @@
 Oi! Sou José Lucas 👋, tenho 17 anos e sou da **Paraíba, Brasil**.
 --
 
-
-
-![José Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=revoltzxp&show_icons=true&theme=dark)
-
 --
 
 ## Tecnologias que uso no meu dia
