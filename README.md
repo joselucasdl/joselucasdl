@@ -1,7 +1,7 @@
 <!-- Perfil: joselucasdl | Paleta: #0095FF · #0D1117 · #C9D1D9 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,70:102438,100:0095FF&height=190&text=Jos%C3%A9%20Lucas&fontSize=52&fontColor=FFFFFF&fontAlignY=43&desc=DANTAS%20DE%20LIMA%20%20%2F%20%20FULL-STACK%20J%C3%9ANIOR&descSize=15&descAlignY=67" alt="José Lucas Dantas de Lima — Desenvolvedor Full-Stack Júnior" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,70:102438,100:0095FF&height=190&text=Lucas%20Dantas&fontSize=52&fontColor=FFFFFF&fontAlignY=43&desc=FULL-STACK%20DEVELOPER&descSize=15&descAlignY=67" alt="Lucas Dantas — Full-Stack Developer" />
 </p>
 
 <p align="center">
