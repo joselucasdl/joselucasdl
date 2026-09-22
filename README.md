@@ -1,9 +1,6 @@
 # José Lucas
 
-Oi! Sou José Lucas 👋, tenho 17 anos e sou da **Paraíba, Brasil**.
---
-
---
+Oi! Sou José Lucas 👋, tenho 18 anos e sou da **Paraíba, Brasil**.
 
 ## Tecnologias que uso no meu dia
 
