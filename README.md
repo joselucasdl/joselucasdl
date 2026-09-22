@@ -50,28 +50,22 @@ Você encontra meus projetos no [portfólio](https://lucasdantas.vercel.app/) e 
 
 ## Projetos & código
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Portfólio</h3>
-      <p>Meu espaço na web para apresentar os projetos que desenvolvo.</p>
-      <p><sub>lucasdantas.vercel.app</sub></p>
-      <br>
-      <a href="https://lucasdantas.vercel.app/">
-        <img src="https://img.shields.io/badge/Explorar%20projetos-%E2%86%97-0095FF?style=flat-square&labelColor=161B22" alt="Explorar projetos no portfólio" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Repositórios</h3>
-      <p>Acesso ao código e ao histórico de desenvolvimento dos meus repositórios públicos.</p>
-      <p><sub>github.com/joselucasdl</sub></p>
-      <br>
-      <a href="https://github.com/joselucasdl?tab=repositories">
-        <img src="https://img.shields.io/badge/Explorar%20c%C3%B3digo-%E2%86%97-0095FF?style=flat-square&labelColor=161B22" alt="Explorar repositórios no GitHub" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://lucasdantas.vercel.app/">
+    <img
+      width="49%"
+      src="./assets/portfolio.svg"
+      alt="Portfólio — explorar meus projetos"
+    />
+  </a>
+  <a href="https://github.com/joselucasdl?tab=repositories">
+    <img
+      width="49%"
+      src="./assets/repositorios.svg"
+      alt="Repositórios — explorar meu código"
+    />
+  </a>
+</p>
 
 <!-- Os cards apontam para os destinos informados, sem presumir projetos específicos. -->
 
