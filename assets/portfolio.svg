@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="250" viewBox="0 0 500 250"><title>01 / Portfólio</title><rect x="0.5" y="0.5" width="499" height="249" rx="12" fill="#0D1117" stroke="#21262D"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="26" y="48" font-size="21" font-weight="700" fill="#E6EDF3">01 / Portfólio</text>
+    <text x="26" y="88" font-size="16" fill="#E6EDF3">Meu espaço na web para apresentar os projetos</text>
+    <text x="26" y="112" font-size="16" fill="#E6EDF3">que desenvolvo.</text>
+    <text x="26" y="161" font-size="13" fill="#8B949E">lucasdantas.vercel.app</text>
+    <rect x="26" y="193" width="167" height="30" rx="6" fill="#161B22"/>
+    <text x="38" y="213" font-size="13" font-weight="600" fill="#E6EDF3">Explorar projetos</text>
+    <path d="M168 212 L178 202 M170 202 H178 V210" fill="none" stroke="#0095FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g></svg>
