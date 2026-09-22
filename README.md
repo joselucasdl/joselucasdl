@@ -79,24 +79,19 @@ Você encontra meus projetos no [portfólio](https://lucasdantas.vercel.app/) e 
 
 ## GitHub em números
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api?username=joselucasdl&show_icons=true&hide_rank=true&card_width=500&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&icon_color=0095FF&hide_border=true&custom_title=GitHub%20Stats"
-        alt="Estatísticas de José Lucas no GitHub"
-      />
-    </td>
-    <td width="50%" valign="top">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=joselucasdl&layout=compact&card_width=500&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&hide_border=true&custom_title=Top%20Languages"
-        alt="Linguagens utilizadas nos repositórios de José Lucas"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    align="top"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=joselucasdl&show_icons=true&hide_rank=true&card_width=500&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&icon_color=0095FF&hide_border=false&border_color=21262D&border_radius=12&custom_title=GitHub%20Stats"
+    alt="Estatísticas de José Lucas no GitHub"
+  />
+  <img
+    align="top"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joselucasdl&layout=compact&card_width=500&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&hide_border=false&border_color=21262D&border_radius=12&custom_title=Top%20Languages"
+    alt="Linguagens utilizadas nos repositórios de José Lucas"
+  />
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=joselucasdl&locale=pt_BR&background=0D1117&border=21262D&stroke=21262D&ring=0095FF&fire=0095FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=0095FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Sequência de contribuições de José Lucas no GitHub" />
