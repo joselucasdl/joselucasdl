@@ -63,7 +63,7 @@ Você encontra meus projetos no [portfólio](https://lucasdantas.vercel.app/) e 
     </td>
     <td width="50%" valign="top">
       <h3>02 / Repositórios</h3>
-      <p>Acesso ao código e ao histórico dos meus repositórios públicos.</p>
+      <p>Acesso ao código e ao histórico de desenvolvimento dos meus repositórios públicos.</p>
       <p><sub>github.com/joselucasdl</sub></p>
       <br>
       <a href="https://github.com/joselucasdl?tab=repositories">
