@@ -51,20 +51,8 @@ Você encontra meus projetos no [portfólio](https://lucasdantas.vercel.app/) e 
 ## Projetos & código
 
 <p align="center">
-  <a href="https://lucasdantas.vercel.app/">
-    <img
-      width="49%"
-      src="./assets/portfolio.svg"
-      alt="Portfólio — explorar meus projetos"
-    />
-  </a>
-  <a href="https://github.com/joselucasdl?tab=repositories">
-    <img
-      width="49%"
-      src="./assets/repositorios.svg"
-      alt="Repositórios — explorar meu código"
-    />
-  </a>
+  <a href="https://lucasdantas.vercel.app/"><img width="49%" src="./assets/portfolio.svg" alt="Portfólio — explorar meus projetos" /></a>
+  <a href="https://github.com/joselucasdl?tab=repositories"><img width="49%" src="./assets/repositorios.svg" alt="Repositórios — explorar meu código" /></a>
 </p>
 
 <!-- Os cards apontam para os destinos informados, sem presumir projetos específicos. -->
