@@ -4,7 +4,7 @@
     <text x="26" y="53" font-size="26" font-weight="700" fill="#E6EDF3">01 / Portfólio</text>
     <text x="26" y="99" font-size="19" fill="#E6EDF3">Meu espaço na web para apresentar</text>
     <text x="26" y="127" font-size="19" fill="#E6EDF3">os projetos que desenvolvo.</text>
-    <text x="26" y="182" font-size="16" fill="#8B949E">lucasdantas.vercel.app</text>
+    <text x="26" y="182" font-size="16" fill="#8B949E">portfolio-lucas-dantas.vercel.app</text>
     <rect x="26" y="212" width="211" height="42" rx="8" fill="#161B22" />
     <text x="41" y="239" font-size="16" font-weight="600" fill="#E6EDF3">Explorar projetos</text>
     <path d="M210 239 L222 227 M212 227 H222 V237" fill="none" stroke="#0095FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
