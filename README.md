@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lucasdantas.vercel.app/">Portfólio ↗</a>
+  <a href="https://portfolio-lucas-dantas.vercel.app/">Portfólio ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/joselucasdl?tab=repositories">Repositórios ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -24,7 +24,7 @@ Sou **José Lucas Dantas de Lima**, desenvolvedor **Full-Stack Júnior**. Trabal
 
 Minha stack também inclui HTML, CSS e Tailwind CSS para as interfaces, além de MySQL, Prisma ORM e APIs REST para a parte de dados e integração.
 
-Você encontra meus projetos no [portfólio](https://lucasdantas.vercel.app/) e meu código público aqui no GitHub.
+Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.vercel.app/) e meu código público aqui no GitHub.
 
 <br>
 
@@ -51,7 +51,7 @@ Você encontra meus projetos no [portfólio](https://lucasdantas.vercel.app/) e 
 ## Projetos & código
 
 <p align="center">
-  <a href="https://lucasdantas.vercel.app/"><img width="49%" src="./assets/portfolio.svg" alt="Portfólio — explorar meus projetos" /></a>
+  <a href="https://portfolio-lucas-dantas.vercel.app/"><img width="49%" src="./assets/portfolio.svg" alt="Portfólio — explorar meus projetos" /></a>
   <a href="https://github.com/joselucasdl?tab=repositories"><img width="49%" src="./assets/repositorios.svg" alt="Repositórios — explorar meu código" /></a>
 </p>
 
