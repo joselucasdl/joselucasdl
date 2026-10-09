@@ -46,7 +46,7 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
 
 ## GitHub em números
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img
     align="top"
     width="49%"
