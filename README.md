@@ -70,39 +70,3 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
 </p>
 
 <br>
-
-### Atividade recente
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joselucasdl&bg_color=0D1117&color=8B949E&title_color=0095FF&line=0095FF&point=58B8FF&area=true&area_color=0095FF&hide_border=true&radius=12&days=30&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" alt="Gráfico das contribuições de José Lucas nos últimos 30 dias" />
-</p>
-
-<br>
-
-## Vamos conversar
-
-<p>
-  <a href="https://www.linkedin.com/in/joselucasdl/">
-    <img src="https://img.shields.io/badge/LinkedIn-joselucasdl-0095FF?style=flat-square&labelColor=161B22" alt="LinkedIn de José Lucas" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/joselucasdl/">
-    <img src="https://img.shields.io/badge/Instagram-%40joselucasdl-0095FF?style=flat-square&logo=instagram&logoColor=FFFFFF&labelColor=161B22" alt="Instagram de José Lucas" />
-  </a>
-  &nbsp;
-  <a href="https://lucasdantas.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-0095FF?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=161B22" alt="Portfólio de José Lucas" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0095FF&height=2" alt="" />
-</p>
-
-<p align="center">
-  <sub><b>José Lucas Dantas de Lima</b> &nbsp; / &nbsp; @joselucasdl</sub>
-  <br>
-  <sub>Interface. Código. Conexões.</sub>
-</p>
