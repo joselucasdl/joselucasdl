@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1200&color=0095FF&center=true&vCenter=true&width=650&height=45&lines=Jos%C3%A9+Lucas+%2F+%40joselucasdl;Desenvolvedor+Full-Stack+J%C3%BAnior;React+%C2%B7+Next.js+%C2%B7+Node.js;JavaScript+%C2%B7+TypeScript+%C2%B7+APIs+REST" alt="José Lucas: desenvolvimento full-stack com React, Next.js, Node.js e TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=1200&color=0095FF&center=true&vCenter=true&width=650&height=45&lines=Jos%C3%A9+Lucas+%2F+%40joselucasdl;Desenvolvedor+Full-Stack+J%C3%BAnior;React+%C2%B7+Next.js+%C2%B7+Node.js;JavaScript+%C2%B7+TypeScript" alt="José Lucas: desenvolvimento full-stack com React, Next.js, Node.js e TypeScript" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 Sou **José Lucas Dantas de Lima**, desenvolvedor **Full-Stack Júnior**. Trabalho com JavaScript e TypeScript no desenvolvimento web, do front-end com React e Next.js ao back-end com Node.js.
 
-Minha stack também inclui HTML, CSS e Tailwind CSS para as interfaces, além de MySQL, Prisma ORM e APIs REST para a parte de dados e integração.
+Minha stack também inclui HTML, CSS e Tailwind CSS para as interfaces, além de MySQL e Prisma ORM para a parte de dados.
 
 Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.vercel.app/) e meu código público aqui no GitHub.
 
@@ -42,20 +42,6 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,prisma&theme=dark" alt="JavaScript, TypeScript, Node.js, MySQL e Prisma ORM" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/APIs-REST-0095FF?style=flat-square&labelColor=161B22" alt="APIs REST" />
-</p>
-
-<br>
-
-## Projetos & código
-
-<p align="center">
-  <a href="https://portfolio-lucas-dantas.vercel.app/"><img width="48%" src="./assets/portfolio.svg?v=4" alt="Portfólio — explorar meus projetos" /></a>&emsp;<a href="https://github.com/joselucasdl?tab=repositories"><img width="48%" src="./assets/repositorios.svg?v=4" alt="Repositórios — explorar meu código" /></a>
-</p>
-
-<!-- Os cards apontam para os destinos informados, sem presumir projetos específicos. -->
-
 <br>
 
 ## GitHub em números
@@ -73,6 +59,7 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=joselucasdl&layout=compact&card_width=500&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&hide_border=false&border_color=21262D&border_radius=12&custom_title=Top%20Languages"
     alt="Linguagens utilizadas nos repositórios de José Lucas"
   />
+</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=joselucasdl&locale=pt_BR&background=0D1117&border=21262D&stroke=21262D&ring=0095FF&fire=0095FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=0095FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Sequência de contribuições de José Lucas no GitHub" />
@@ -89,24 +76,6 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joselucasdl&bg_color=0D1117&color=8B949E&title_color=0095FF&line=0095FF&point=58B8FF&area=true&area_color=0095FF&hide_border=true&radius=12&days=30&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" alt="Gráfico das contribuições de José Lucas nos últimos 30 dias" />
 </p>
-
-<details>
-  <summary><b>GitHub Trophies</b></summary>
-  <br>
-  <p align="center">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=joselucasdl&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="Troféus gerados a partir da atividade pública de José Lucas no GitHub" />
-  </p>
-</details>
-
-<br>
-
-### Contribuições em movimento
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joselucasdl/joselucasdl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joselucasdl/joselucasdl/output/github-snake.svg" />
-  <img width="100%" alt="Animação Snake do calendário de contribuições de José Lucas" src="https://raw.githubusercontent.com/joselucasdl/joselucasdl/output/github-snake.svg" />
-</picture>
 
 <br>
 
@@ -137,57 +106,3 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
   <br>
   <sub>Interface. Código. Conexões.</sub>
 </p>
-
-<!--
-CONFIGURAÇÃO DO PERFIL
-
-1. Crie um repositório público chamado joselucasdl na conta joselucasdl.
-2. Salve este conteúdo como README.md na raiz desse repositório.
-3. Os serviços externos geram os cards dinamicamente e podem apresentar indisponibilidade.
-4. Para ativar a Snake, crie .github/workflows/snake.yml na branch padrão.
-5. Copie apenas o YAML abaixo para esse arquivo, sem este comentário HTML.
-6. Depois do commit, abra Actions, selecione "Atualizar Snake" e clique em Run workflow.
-7. Após a primeira execução bem-sucedida, os SVGs estarão na branch output e aparecerão aqui.
-
-O YAML precisa existir em um arquivo separado: deixá-lo neste comentário não executa a Action.
-O GITHUB_TOKEN já é fornecido pelo GitHub Actions. Não cole tokens pessoais no README.
-
-name: Atualizar Snake
-
-on:
-  schedule:
-    - cron: '23 3 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: profile-snake
-  cancel-in-progress: false
-
-jobs:
-  atualizar:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Gerar animações das contribuições
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: joselucasdl
-          outputs: |
-            dist/github-snake.svg?color_snake=#0095FF&color_dots=#EBEDF0,#B8DFFF,#75BFFF,#339EFF,#0075CC
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#0095FF&color_dots=#161B22,#0A3352,#07598A,#007AC2,#0095FF
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publicar SVGs na branch output
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          keep_files: true
-          commit_message: Atualizar animações de contribuições
-
--->
