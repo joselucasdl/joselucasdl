@@ -47,7 +47,18 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
 ## GitHub em números
 
 <p align="center">
-  <img width="49.5%" src="https://github-stats-extended.vercel.app/api?username=joselucasdl&show_icons=true&hide_rank=true&card_width=500&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&icon_color=0095FF&hide_border=false&border_color=21262D&border_radius=12&custom_title=GitHub%20Stats" alt="Estatísticas de José Lucas no GitHub" /><img width="49.5%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joselucasdl&layout=compact&card_width=500&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&hide_border=false&border_color=21262D&border_radius=12&custom_title=Top%20Languages" alt="Linguagens utilizadas nos repositórios de José Lucas" />
+  <img
+    align="top"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=joselucasdl&show_icons=true&hide_rank=true&card_width=500&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&icon_color=0095FF&hide_border=false&border_color=21262D&border_radius=12&custom_title=GitHub%20Stats"
+    alt="Estatísticas de José Lucas no GitHub"
+  />
+  <img
+    align="top"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=joselucasdl&layout=compact&card_width=500&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=0095FF&text_color=C9D1D9&hide_border=false&border_color=21262D&border_radius=12&custom_title=Top%20Languages"
+    alt="Linguagens utilizadas nos repositórios de José Lucas"
+  />
 </p>
 
 <br>
