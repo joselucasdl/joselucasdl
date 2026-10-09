@@ -61,12 +61,4 @@ Você encontra meus projetos no [portfólio](https://portfolio-lucas-dantas.verc
   />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=joselucasdl&locale=pt_BR&background=0D1117&border=21262D&stroke=21262D&ring=0095FF&fire=0095FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=0095FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Sequência de contribuições de José Lucas no GitHub" />
-</p>
-
-<p align="center">
-  <sub>Top Languages reflete o código analisado nos repositórios públicos, não o nível de domínio de cada tecnologia.</sub>
-</p>
-
 <br>
